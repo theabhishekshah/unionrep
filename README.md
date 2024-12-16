@@ -1,5 +1,5 @@
 ---
-Task-First, Social-Second
+<sub><i>Task-First, Social-Second</i></sub>
 
 ## **UnionRep**: A Hub for Purpose-Driven Collaboration
 - A **collaborative unionizing platform**, blending the spontaneity of social connection with the utility of a task-oriented tool. 
